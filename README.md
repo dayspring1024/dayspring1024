@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **dayspring1024/dayspring1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi there!
+🏫 I'm a Korean student interested in Aeronautical Engineering and ATC.
+
+# 📖 Educations
+- Graduated Gyeongwon Middle School | 2022-2024
+- Currently attending Banpo High School | 2025-2027
+
+# 📞 Contact
+- [vivace7137@gmail.com](mailto:vivace7137@gmail.com)
